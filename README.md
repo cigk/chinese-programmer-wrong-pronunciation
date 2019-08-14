@@ -6,9 +6,7 @@
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=1) | ✅ ['ækses] | ❌ [ək'ses] |
 | Adobe [🔊](http://dict.youdao.com/dictvoice?audio=Adobe&type=2) | ✅ [ə'dəʊbi]| ❌ [əˈdub] |
 | admin [🔊](http://dict.youdao.com/dictvoice?audio=admin&type=2) | ✅ ['ædmɪn] | ❌ [ɜ:d'mɪn] |
-| agile [🔊](http://dict.youdao.com/dictvoice?audio=agile&type=1) | ✅ ['ædʒaɪl] | ❌ [ə'dʒaɪl] |
 | amazon [🔊](http://dict.youdao.com/dictvoice?audio=amazon&type=1) | ✅ ['æməzən] | ❌ ['əmeizən; ə'meizən] |
-| analogy [🔊](http://dict.youdao.com/dictvoice?audio=analogy&type=1) | ✅ [əˈnælədʒi] | ❌ [ænə'lɒdʒi] |
 | Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=1) | ✅ ['æŋgjʊlə] | ❌ ['æŋɡələ; 'æŋdʒʌlə] |
 | AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=1) | ✅ ['eidʒæks] | ❌ [ə'dʒʌks] |
 | alias [🔊](http://dict.youdao.com/dictvoice?audio=alias&type=2) | ✅ [ˈeɪliəs]| ❌ [ə'lais] |
