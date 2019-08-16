@@ -81,5 +81,4 @@
 |Dubbo [🔊](http://dict.youdao.com/dictvoice?audio=Dubbo&type=1) | ✅ ['dʌbəʊ] |
 |CentOS [🔊](http://dict.youdao.com/dictvoice?audio=CentOS&type=1) | ✅ ['sɛntəʊs] |
 |Kindle [🔊](http://dict.youdao.com/dictvoice?audio=Kindle&type=1) | ✅ ['kindl] |
-|Uber [🔊](http://dict.youdao.com/dictvoice?audio=Uber&type=1) | ✅ ['uːbər] |
 |grep [🔊](http://dict.youdao.com/dictvoice?audio=grep&type=1) | ✅ ['grep] |
