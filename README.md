@@ -25,7 +25,6 @@
 | deny [🔊](http://dict.youdao.com/dictvoice?audio=deny&type=1) | ✅ [dɪ'naɪ] | ❌ ['dæni] |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=1) | ✅ ['dek] | ❌ [di'kju] |
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=1) | ✅ n. ['dɑɪdʒɛst] v. [dɑɪ'dʒɛst] | ❌ ['dɪgɛst] |
-| Dijkstra [🔊](https://upload.wikimedia.org/wikipedia/commons/8/85/Dijkstra.ogg) | ✅ Dutch:[ˈdɛikstra] English:[ˈdaɪkstrə] |  |
 | Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=1) | ✅ [ˈdʒæŋɡoʊ] | ❌ [diˈdʒæŋɡoʊ] |
 | doc [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=1) | ✅ [dɒk]| ❌ [daʊk] |
 | event [🔊](http://dict.youdao.com/dictvoice?audio=event&type=1) | ✅ [ɪ'vent]| ❌ ['ɪvənt] |
@@ -55,24 +54,20 @@
 | maven [🔊](http://dict.youdao.com/dictvoice?audio=maven&type=1) | ✅ ['meɪvn] | ❌ ['maːvn] |
 | Microsoft [🔊](http://dict.youdao.com/dictvoice?audio=Microsoft&type=1) | ✅ ['maikrəusɔft] | ❌ ['mikrəusɔft] |
 | module [🔊](http://dict.youdao.com/dictvoice?audio=module&type=1) | ✅ ['mɒdjuːl] | ❌ ['məʊdl] |
-| nginx | ✅ Engine X | |
+| nginx | ✅ [ɛndʒɪnˈeks]    Engine X | |
 | null [🔊](http://dict.youdao.com/dictvoice?audio=null&type=1) | ✅ [nʌl] | ❌ [naʊ] |
-| OS X | ✅ OS ten | |
 | phantom [🔊](http://dict.youdao.com/dictvoice?audio=phantom&type=2) | ✅ ['fæntəm] | ❌ ['pæntəm] |
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=1) | ✅ [pə'ræmɪtə] | ❌ ['pærəmɪtə] |
 | privilege [🔊](http://dict.youdao.com/dictvoice?audio=privilege&type=1) | ✅ ['prɪvəlɪdʒ] | ❌ ['prɪvɪlɪdʒ] |
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=1) | ✅ [ˈpʌti] | ❌ [ˈpuːti] |
-| query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=1) | ✅ ['kwɪəri] | ❌ ['kwaɪri] |
-| Qt [🔊](http://dict.youdao.com/dictvoice?audio=cute&type=1) | ✅ [kjuːt] | |
+| query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=1) | ✅ ['kwɪəri] |['kwɪri] | ❌ ['kwaɪri] |
 | Realm [🔊](http://dict.youdao.com/dictvoice?audio=realm&type=1) | ✅ [relm] | ❌ [riəlm] |
 | resume [🔊](http://dict.youdao.com/dictvoice?audio=resume&type=1) | ✅  [rɪ'zju:m] | ❌  [rɪ'sju:m] |
 | resolved [🔊](http://dict.youdao.com/dictvoice?audio=resolved&type=1) | ✅ [rɪ'zɒlvd] | ❌ [rɪ'səʊvd] |
 | resort [🔊](http://dict.youdao.com/dictvoice?audio=resort&type=1) | ✅ [rɪˈzɔ:t] | ❌ [rɪˈsɔ:t] |
 | retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=1) | ✅ ['retɪnə] | ❌ [ri'tina] |
-| san jose [🔊](http://dict.youdao.com/dictvoice?audio=san%20jose&type=1) | ✅ [sænhəu'zei] | ❌ [sæn'ju:s] |
 | safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=1) | ✅ [sə'fɑːrɪ] | ❌ [sæfərɪ] |
 | scheme [🔊](http://dict.youdao.com/dictvoice?audio=scheme&type=1) | ✅ [skiːm] | ❌ [s'kæmə] |
-| segue [🔊](http://dict.youdao.com/dictvoice?audio=segue&type=1) | ✅ ['sɛɡwe] | ❌ [se'dʒ] |
 | SQL | ✅ [ˈsiːkwəl]/[ˈesˈkjuːˈel] | |
 | sudo | ✅ ['suːduː] | |
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=1) | ✅ [swiːt] | ❌ [sjuːt] |
@@ -80,8 +75,11 @@
 | Ubuntu [🔊](http://upload.wikimedia.org/wikipedia/commons/b/b5/En-Ubuntu_pronunciation.oga) | ✅ [ʊ'bʊntʊ] | ❌ [juː'bʊntʊ] |
 | variable [🔊](http://dict.youdao.com/dictvoice?audio=variable&type=1) | ✅ ['veəriəbl] | ❌ [və'raiəbl] |
 | vue [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=1) | ✅ [v'ju:] | ❌ [v'ju:i] |
-| width [🔊](http://dict.youdao.com/dictvoice?audio=width&type=1) | ✅ [wɪdθ] | ❌ [waɪdθ] |
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=1) | ✅ ['juː'tjuːb] | ❌ ['juː'tʊbɪ] |
 | Lucene [🔊](http://dict.youdao.com/dictvoice?audio=lucene&type=1) | ✅ [lu'siːn] | ❌ ['lu:sən] |
 | debt [🔊](http://dict.youdao.com/dictvoice?audio=debt&type=1) | ✅ [det] | ❌ [de'bit] |
-
+|Dubbo ['dʌbəʊ]
+|CentOS ['sɛntəʊs]
+|Kindle ['kindl]
+|Uber ['uːbər]
+|grep ['grep]
