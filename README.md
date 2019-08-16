@@ -78,8 +78,8 @@
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=1) | ✅ ['juː'tjuːb] | ❌ ['juː'tʊbɪ] |
 | Lucene [🔊](http://dict.youdao.com/dictvoice?audio=lucene&type=1) | ✅ [lu'siːn] | ❌ ['lu:sən] |
 | debt [🔊](http://dict.youdao.com/dictvoice?audio=debt&type=1) | ✅ [det] | ❌ [de'bit] |
-|Dubbo ['dʌbəʊ]
-|CentOS ['sɛntəʊs]
-|Kindle ['kindl]
-|Uber ['uːbər]
-|grep ['grep]
+|Dubbo [🔊](http://dict.youdao.com/dictvoice?audio=Dubbo&type=1) | ✅ ['dʌbəʊ] |
+|CentOS [🔊](http://dict.youdao.com/dictvoice?audio=CentOS&type=1) | ✅ ['sɛntəʊs] |
+|Kindle [🔊](http://dict.youdao.com/dictvoice?audio=Kindle&type=1) | ✅ ['kindl] |
+|Uber [🔊](http://dict.youdao.com/dictvoice?audio=Kindle&type=1) | ✅ ['uːbər] |
+|grep [🔊](http://dict.youdao.com/dictvoice?audio=Kindle&type=1) | ✅ ['grep] |
